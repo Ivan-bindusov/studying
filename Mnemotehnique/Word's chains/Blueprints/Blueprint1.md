@@ -1,1 +1,1 @@
-![[Blueprint1.pdf]]
+![[Probability1.pdf]]

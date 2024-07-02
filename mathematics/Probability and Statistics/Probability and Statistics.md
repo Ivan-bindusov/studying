@@ -1,2 +1,2 @@
-[[Probability]]
+[[Probability root|Probability]]
 [[Statistics]]
