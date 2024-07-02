@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"2a315282e3261c3f","type":"text","text":"значок","x":-576,"y":-180,"width":199,"height":50},
+		{"id":"08c5ffc9a1407cd8","type":"text","text":"резинка","x":-576,"y":-100,"width":199,"height":50},
+		{"id":"aec61bcb7f25ccd4","type":"text","text":"винт","x":-576,"y":-20,"width":199,"height":50},
+		{"id":"16e70ac12420d969","type":"text","text":"спутник","x":-576,"y":60,"width":199,"height":50},
+		{"id":"4b84bb8fc7977ff5","type":"text","text":"масло","x":-576,"y":140,"width":199,"height":50},
+		{"id":"b57a0b32d62ff665","type":"text","text":"трактор","x":-576,"y":220,"width":199,"height":50},
+		{"id":"d237605fb63783c1","type":"text","text":"ложка","x":-576,"y":300,"width":199,"height":50},
+		{"id":"dbcb755d88c12e9d","type":"text","text":"кнопка","x":-576,"y":380,"width":199,"height":50},
+		{"id":"9f71fde3993566b1","type":"text","text":"комар","x":-576,"y":460,"width":199,"height":50},
+		{"id":"899f1eb1bf54f3e8","type":"text","text":"ворота","x":-576,"y":540,"width":199,"height":50},
+		{"id":"5479c400f95a2388","type":"text","text":"скальпель","x":-576,"y":620,"width":199,"height":50},
+		{"id":"bedb077a548b1f7f","type":"text","text":"объектив","x":-576,"y":700,"width":199,"height":50},
+		{"id":"6233d0dc209b3d4f","type":"text","text":"сумка","x":-576,"y":780,"width":199,"height":50},
+		{"id":"4c7a26dc449b04d4","type":"text","text":"зуб","x":-576,"y":860,"width":199,"height":50},
+		{"id":"83f63a847c7f1840","type":"text","text":"майка","x":-576,"y":940,"width":199,"height":50},
+		{"id":"367ef64d4dce4eb7","type":"text","text":"антенна","x":-576,"y":1020,"width":199,"height":50},
+		{"id":"5af28aad2547a684","type":"text","text":"звезда","x":-576,"y":1100,"width":199,"height":50},
+		{"id":"bdbd33eb1d86996d","type":"text","text":"фара","x":-576,"y":1180,"width":199,"height":50},
+		{"id":"f0bd82d4a390d7bd","type":"text","text":"кисть","x":-576,"y":1260,"width":199,"height":50},
+		{"id":"2b08cd8f5f97358f","x":-576,"y":-260,"width":199,"height":50,"type":"text","text":"марка"}
+	],
+	"edges":[]
+}

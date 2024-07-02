@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "c5b2e8746fa10d1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4bfd5ddc962e675",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7025a1566afc169",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "List_2.canvas",
+                "viewState": {
+                  "x": -78.39996337890625,
+                  "y": -37.80000305175781,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "e4d28dd15119242f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mathematics/Differential equations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b567763f52dac95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mathematics/Решение ДУ на аналоговой схеме.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c77ba2dc8dfa64f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab4327d928c38cf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81e573a30872426b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "877f97dae82cbec1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ref",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e78a2bc645bea85f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373.5
+  },
+  "right": {
+    "id": "0b92e263b32a6bd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b8185f98eadb922",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0df5f94f90974ad6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mathematics/Differential equations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6d0ac22a97b774d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mathematics/Differential equations.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2af9496f41339d05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "599c2f08a5fefac7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mathematics/Differential equations.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e4d28dd15119242f",
+  "lastOpenFiles": [
+    "mathematics/Решение ДУ на аналоговой схеме.md",
+    "mathematics/Differential equations.md",
+    "List_2.canvas",
+    "mathematics/Linear algebra/Теорема Лапласа для определителей.md",
+    "mathematics/Mathematics.md",
+    "Untitled.canvas",
+    "Test canvas.canvas",
+    "mathematics/Linear algebra/Linear algebra.md",
+    "Program languages/Rust/as_ref.md",
+    "Program languages/Rust/AsRef.md",
+    "Program languages/Rust/Ref.md",
+    "Program languages/Rust/cell.md",
+    "Combination Relu functions.md",
+    "machine_learning/Machine learning.md",
+    "machine_learning/Activation functions.md",
+    "mathematics/Linear algebra/Миноры, разложение матрицы по строке или столбцу.md",
+    "vault_images/Безымянный2.jpg",
+    "vault_images/Pasted image 20240429154246.png",
+    "vault_images/Pasted image 20240429153739.png",
+    "vault_images/Pasted image 20240429154055.png",
+    "vault_images/Pasted image 20240423173643.png",
+    "vault_images/Безымянный1.jpg",
+    "vault_images/Pasted image

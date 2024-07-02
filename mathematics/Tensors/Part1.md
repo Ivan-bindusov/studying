@@ -1,0 +1,1 @@
+#laplassian #curvlinear_integral #volume_integral #stocks_theorem #ostrogradsky_gauss #tenzors_![[-List-2024-06-16-16-42_annotated_tensors.pdf]]
